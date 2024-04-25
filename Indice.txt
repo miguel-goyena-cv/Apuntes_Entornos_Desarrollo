@@ -1,4 +1,5 @@
 Capitulo 0: Introducción a entornos de desarrollo.
 Capitulo 1: Repositorios de Código
+	1.- Que es GIT
 Capítulo 2: UML
 Capítulo 3: Gestión de Ramas en GIT
